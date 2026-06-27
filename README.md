@@ -1,2 +1,2 @@
 # Drug-Shortages
-<img width="393" height="221" alt="image" src="https://github.com/user-attachments/assets/45c9667c-b5cf-434a-a3a1-00aa3cfff4dd" />
+<img width="555" height="340" alt="image" src="https://github.com/user-attachments/assets/1a440a12-20c8-40f3-9f20-c43c8438f88e" />
