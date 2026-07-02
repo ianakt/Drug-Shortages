@@ -2,11 +2,18 @@
 
 Overview
 
+
 Project Goal
 
 Data Source
 
+
+
+https://open.fda.gov/data/downloads/
+https://download.open.fda.gov/drug/shortages/drug-shortages-0001-of-0001.json.zip
+
 Power Query Steps
+See folder "Transformation_steps" for more details
 
 DAX Measures
 
