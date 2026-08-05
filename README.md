@@ -23,7 +23,13 @@ See folder "Transformation_steps" for more details
 
 <img width="886" height="505" alt="image" src="https://github.com/user-attachments/assets/ef35ca40-b698-4ff1-bc36-5fff2676dade" />
 
-Insights
+##Insights
+
+###Approximately 75% of entries for shortage reason were blank.
+
+<img width="679" height="501" alt="image" src="https://github.com/user-attachments/assets/75f403b3-3c63-4423-b29b-b9aa9f0680a6" />
+
+
 
 Most drug shortages were prescription and not over the counter drugs. Most suppliers do not state a reason for their drug shortage.
 
