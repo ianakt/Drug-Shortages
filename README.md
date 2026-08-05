@@ -18,7 +18,8 @@ See folder "Transformation_steps" for more details
 
 ## Dashboard Pages
 
-[<img width="555" height="340" alt="image" src="https://github.com/user-attachments/assets/eafa438c-bf89-44ef-b632-59e7e90bb9b3" />](https://github.com/ianakt/Drug-Shortages/blob/main/Drug_shortages_with_blanks_filtered.png)
+<img width="1054" height="612" alt="image" src="https://github.com/user-attachments/assets/39a64ebb-dc3c-459c-8914-87f59f804a29" />
+
 
 <img width="886" height="505" alt="image" src="https://github.com/user-attachments/assets/ef35ca40-b698-4ff1-bc36-5fff2676dade" />
 
