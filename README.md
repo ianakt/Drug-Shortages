@@ -27,7 +27,7 @@ See folder "Transformation_steps" for more details
 
 ### Approximately 75% of entries for shortage reason were blank.
 
-<img width="679" height="501" alt="image" src="https://github.com/user-attachments/assets/75f403b3-3c63-4423-b29b-b9aa9f0680a6" />
+![](/Drug_Shortages_showing_approx_75_percent_blank.png)
 
 
 
