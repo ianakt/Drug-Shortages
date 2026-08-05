@@ -18,7 +18,7 @@ See folder "Transformation_steps" for more details
 
 ## Dashboard Pages
 
-!https://github.com/user-attachments/assets/39a64ebb-dc3c-459c-8914-87f59f804a29"
+![Drug Shortage Dashboard first page](/Drug_shrotage_dashboard_first_page.png)
 
 
 <img width="886" height="505" alt="image" src="https://github.com/user-attachments/assets/ef35ca40-b698-4ff1-bc36-5fff2676dade" />
